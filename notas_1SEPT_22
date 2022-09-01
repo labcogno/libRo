@@ -1,0 +1,49 @@
+# Aspectos para pensar/trabajar en libro
+Este es un registro de la charla entre MFR, JDL y WJ. @Uniandes 
+El objetivo es trazar un plan de trabajo para la ediciòn de un libro de enseñanza de la herramienta R para el anàlisis de datos en el contexto de la iniciativa de Aula Psicològica. 
+
+## Instrucciones, filosofìa y lìnea editorial
+Si bien fue de lo que menos hablamos, debemos acordar una descripciòn de las cosas. Acordamos que este no es un libro de estadìstica *per se*, serà un libro de estadistica en R. Al respecto, las invitaciones para los colaboradores deberan dejar en claro que se debe minimizar la justificaciòn matemàtica de las tècnicas estadìsticas y destacar el aspecto de aplicaciòn, y sus contextos, asì como introducir de manera clara las rutinas y còdigos de R respectivo. SObre esto pensamos lo siguiente
+- Debe ser un libro abierto
+- Debe tener un formato electrònico y potencialmente uno fìsico, pero este ùltimo es dispensable
+- Debemos acordar unas instrucciones en las que se aclaren, al menos, los siguientes puntos
+-- Extensiòn
+-- Plantilla de Rmarkdown para distribuir
+-- Recomendaciones de escritura y estructuraciòn del còdigo. Al respecto podemos pensar en el standard de google, lo de Wickham o tal vez el que no logro recordar :/
+-- Presencia web, formato y caracteristicas (vlog? video? demostraciòn en pantalla?)
+ 
+
+## Tareas administrativas 
+Listar aquì las cosas que deben pasar a nivel institucional para hacer una co ediciòn
+- Determinar responsable uniandes de alianzas editoriales 
+- Determinar posibilidad de alianza desde unibosque 
+
+## Estructura libro 
+[pegar aqui estructura provisional @MFR]
+
+## Posibles colaboradores - tecnicas
+Identificar posibles colaboradores y tècnicas que potencialmente podemos incluir. EN este momento todo y todos valen! 
+Francisco Cardozo - regresiòn
+Andrès Molano - Redes?
+Natalia X - Psicometria 
+Andres Montealegre - Test de equivalencia 
+JC Correa - Modelamiento 
+Javier Corredor - Score matching y similares
+Eugenio X
+Juan David -- Simulaciòn
+William & Maria Fernanda? - Ecuaciones estructurales
+Maria Fernanda & Sandra? - Analisis exploratorio de datos
+Juan David & William - Visualizaciòn de datos en ggplot
+Bayes?
+
+## Libros publicados que sirvan como inspiraciòn
+Identificar recursos que sirvan como guia 
+
+[Learning Statistics with R]  (https://learningstatisticswithr.com/) - Navarro, D
+[Discovering Statistics with R] (https://www.discoveringstatistics.com/books/discovering-statistics-using-r/) - Field
+[An adventure in statistics] (https://www.discoveringstatistics.com/books/an-adventure-in-statistics/)  - Field
+
+
+
+
+
