@@ -9,7 +9,7 @@ Si bien fue de lo que menos hablamos, debemos acordar una descripciòn de las co
 - Debemos acordar unas instrucciones en las que se aclaren, al menos, los siguientes puntos
 -- Extensiòn
 -- Plantilla de Rmarkdown para distribuir
--- Recomendaciones de escritura y estructuraciòn del còdigo. Al respecto podemos pensar en el standard de google, lo de Wickham o tal vez el que no logro recordar :/
+-- Recomendaciones de escritura y estructuraciòn del còdigo. Al respecto podemos pensar en el standard de google (https://google.github.io/styleguide/Rguide.html), lo de Wickham (http://adv-r.had.co.nz/Style.html) o tal vez el que no logro recordar :/
 -- Presencia web, formato y caracteristicas (vlog? video? demostraciòn en pantalla?)
  
 
