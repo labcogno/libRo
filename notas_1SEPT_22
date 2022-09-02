@@ -7,10 +7,11 @@ Si bien fue de lo que menos hablamos, debemos acordar una descripciòn de las co
 - Debe ser un libro abierto
 - Debe tener un formato electrònico y potencialmente uno fìsico, pero este ùltimo es dispensable
 - Debemos acordar unas instrucciones en las que se aclaren, al menos, los siguientes puntos
--- Extensiòn
--- Plantilla de Rmarkdown para distribuir
--- Recomendaciones de escritura y estructuraciòn del còdigo. Al respecto podemos pensar en el standard de google (https://google.github.io/styleguide/Rguide.html), lo de Wickham (http://adv-r.had.co.nz/Style.html) o tal vez el que no logro recordar :/
--- Presencia web, formato y caracteristicas (vlog? video? demostraciòn en pantalla?)
+    - Extensiòn
+    - Plantilla de Rmarkdown para distribuir
+    - Recomendaciones de escritura y estructuraciòn del còdigo. Al respecto podemos pensar en el standard de google (https://google.github.io/styleguide/Rguide.html), lo de Wickham (http://adv-r.had.co.nz/Style.html) o tal vez el que no logro recordar :/
+    - Presencia web, formato y caracteristicas (vlog? video? demostraciòn en pantalla?)
+- **Propuesta JD:** Potencialmente podría ser bueno usar un formato que sea actualizable cuando sea necesario (por ejemplo, cambios en funciones, o aparición de nuevas funciones/paquetes que mejoren un proceso), sin necesidad de esperar a hacer una nueva edición. Esto podría ser complicado, pero lo propongo para discutirlo
  
 
 ## Tareas administrativas 
