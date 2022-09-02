@@ -18,8 +18,22 @@ Listar aquì las cosas que deben pasar a nivel institucional para hacer una co e
 - Determinar responsable uniandes de alianzas editoriales 
 - Determinar posibilidad de alianza desde unibosque 
 
-## Estructura libro 
-[pegar aqui estructura provisional @MFR]
+## Estructura libro (plan preliminar)
+1.	Intro a R
+2.	Análisis exploratorio de datos
+ 2.1.	Distribuciones
+3.	Correlaciones en R
+4.	Modelo lineal general (lm en R)
+ 4.1.	Summary
+ 4.2.	Anova
+ 4.3.	Regresión múltiple
+5.	Regresión logística
+6.	Interacciones
+7.	Poder estadístico en R
+8.	Análisis factorial
+ 8.1.	Exploratorio
+ 8.2.	Confirmatorio
+9.	Metanálisis de correlaciones en R
 
 ## Posibles colaboradores - tecnicas
 Identificar posibles colaboradores y tècnicas que potencialmente podemos incluir. EN este momento todo y todos valen! 
@@ -30,7 +44,7 @@ Andres Montealegre - Test de equivalencia
 JC Correa - Modelamiento 
 Javier Corredor - Score matching y similares
 Eugenio X
-Juan David -- Simulaciòn
+Juan David -- Simulación, poder estadístico, metanálisis de correlaciones y meta-regresión
 William & Maria Fernanda? - Ecuaciones estructurales
 Maria Fernanda & Sandra? - Analisis exploratorio de datos
 Juan David & William - Visualizaciòn de datos en ggplot
@@ -39,9 +53,10 @@ Bayes?
 ## Libros publicados que sirvan como inspiraciòn
 Identificar recursos que sirvan como guia 
 
-[Learning Statistics with R]  (https://learningstatisticswithr.com/) - Navarro, D
-[Discovering Statistics with R] (https://www.discoveringstatistics.com/books/discovering-statistics-using-r/) - Field
-[An adventure in statistics] (https://www.discoveringstatistics.com/books/an-adventure-in-statistics/)  - Field
+[Learning Statistics with R](https://learningstatisticswithr.com/) - Navarro, D
+[Discovering Statistics with R](https://www.discoveringstatistics.com/books/discovering-statistics-using-r/) - Field
+[An adventure in statistics](https://www.discoveringstatistics.com/books/an-adventure-in-statistics/)  - Field
+[PsyTeachR](https://psyteachr.github.io/) - School of Psychology and Neuroscience, University of Glasgow 
 
 
 
