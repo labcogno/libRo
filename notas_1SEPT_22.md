@@ -3,7 +3,7 @@ Este es un registro de la charla entre MFR, JDL y WJ. @Uniandes
 El objetivo es trazar un plan de trabajo para la edición de un libro de enseñanza de la herramienta R para el análisis de datos en el contexto de la iniciativa de Aula Psicológica. 
 
 ## Instrucciones, filosofía y línea editorial
-Si bien fue de lo que menos hablamos, debemos acordar una descripción de las cosas. Acordamos que este no es un libro de estadística *per se*, será un libro de estadistica en R. Al respecto, las invitaciones para los colaboradores deberan dejar en claro que se debe minimizar la justificación matemática de las técnicas estadísticas y destacar el aspecto de aplicación, y sus contextos, así como introducir de manera clara las rutinas y códigos de R respectivo. Sobre esto pensamos lo siguiente
+Si bien fue de lo que menos hablamos, debemos acordar una descripción de las cosas. Acordamos que este no es un libro de estadística *per se*, será un libro de estadistica en R. Al respecto, las invitaciones para los colaboradores deberan dejar en claro que se debe minimizar la justificación matemática de las técnicas estadísticas y destacar el aspecto de aplicación, y sus contextos, así como introducir de manera clara las rutinas y códigos de R respectivo. Sobre esto pensamos lo siguiente:
 - Debe ser un libro abierto
 - Debe tener un formato electrónico y potencialmente uno físico, pero este último es dispensable
 - Debemos acordar unas instrucciones en las que se aclaren, al menos, los siguientes puntos:
